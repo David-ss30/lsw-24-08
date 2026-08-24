@@ -13,7 +13,7 @@ if(valorCompra >= 200){
     console.log(`O valor final ficou em ${valorFinal.toFixed(2)}`);
     
     
-}else if(valorCompra >= 100 && valorCompra <= 190){
+}else if(valorCompra >= 100 && valorCompra <= 199.99){
     desconto = valorCompra * 0.10
     valorFinal = valorCompra - desconto
     console.log("Você recebeu 10% de desconto");
