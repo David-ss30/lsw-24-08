@@ -1,0 +1,26 @@
+{
+  "name": "lpw-24-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "start": "node exercicios.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-ss30/lsw-24-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/David-ss30/lsw-24-08/issues"
+  },
+  "homepage": "https://github.com/David-ss30/lsw-24-08#readme",
+  "dependencies": {
+    "chalk": "^6.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
